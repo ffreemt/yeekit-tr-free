@@ -28,7 +28,7 @@ print(yeekit_tr('Diese sind Teste', 'de', 'zh'))  # ->'这是测试'
 print(yeekit_tr('Diese sind Teste', 'de', 'en'))  # ->'These are tests'
 ```
 
-Languages supported: ar, ca, zhcn, nl, fi, fr, de, el, he, hi, it, ja, kk, ko, pt, ru, es, tr, uk.
+Languages supported: zh, en, ru, de, fr, pt, ja, es. (zh-ko and ko-zh are probably supported.)
 Consult the official website for details.
 
 ### Acknowledgments
