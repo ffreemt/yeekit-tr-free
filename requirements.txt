@@ -1,0 +1,6 @@
+requests
+jmespath
+pytest
+coloredlogs
+fuzzywuzzy
+ratelimit
